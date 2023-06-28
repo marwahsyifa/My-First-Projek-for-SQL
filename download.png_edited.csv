@@ -1,0 +1,16 @@
+kode_transaksi ,kode_pelanggan ,no_urut,kode_produk,nama_produk,qty,harga 
+tr-001,cust07,1,prod-01,Kotak Pensil,5,62500
+tr-001,cust07,2 ,prod-03,Flash disk 32 GB,1,100000
+tr-001,cust07,3,prod-09,Buku Planner Agenda,3,92000
+tr-001,cust07,4,prod-04,Flashdisk 32 GB,3,40000
+tr-002,cust01,1,prod-03,Gift Voucher 100rb,2,100000
+tr-002,cust01,2,prod-10,Sticky Notes 500 sheets,4,55000
+tr-002,cust01,3,prod-07,Tas Travel Organizer,1,48000
+tr-003,cust03,1,prod-02,Flashdisk 64 GB,2,55000
+tr-004,cust03,1,prod-10,Sticky Notes 500 sheets,5,55000
+tr-004,cust03,2,prod-04,Flashdisk 32 GB,4,40000
+tr-005,cust05,1 ,prod-09,Buku Planner Agenda,3,92000
+tr-005,cust05,2,prod-01,Kotak Pensil,1,62500
+tr -005,cust05,3,prod-04,Flashdisk 32 GB,2,40000
+tr-006,cust02,1,prod-05,Gift Voucher 250rb,4,250000
+tr-006,cust02,2 ,prod-08,Gantungan Kunci,2,15800
