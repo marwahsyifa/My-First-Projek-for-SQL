@@ -1,1 +1,2 @@
-SQL Mini Project for Beginner
+#### SQL
+Mini Project for Beginner
